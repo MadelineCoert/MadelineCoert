@@ -45,7 +45,7 @@ Developed a model to predict underperforming restaurants using regression techni
 
 madelinecoert@gmail.com 
 
-[LinkedIn](www.linkedin.com/in/madeline-coert-546667309)
+[LinkedIn](https://www.linkedin.com/in/madeline-coert-546667309) 
 
 Resume available upon request
 
