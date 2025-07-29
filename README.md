@@ -9,9 +9,9 @@ I am a Brisbane-based aspiring data analyst with a strong interest in data scien
 I hold a Bachelor of Business (Marketing) and am currently completing further study in data analytics at the University of Queensland. Through my academic and project experience, I have developed practical skills in data wrangling, exploratory data analysis, regression modelling and time series forecasting. I am particularly interested in leveraging data to support business decisions, enhance operational performance and mitigate risk.
 
 Proficiency in:
-- R (tidyverse, ggplot2, forecast, caret)
-- Python (pandas, matplotlib, seaborn)
+- R (tidyverse, ggplot2, forecast)
 - SQL
+- Python (pandas, matplotlib, seaborn)
 - Excel
 - Power BI for dashboarding and business reporting
 - GitHub for project collaboration
