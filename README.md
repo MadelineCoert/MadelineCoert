@@ -1,12 +1,12 @@
 # Madeline Coert – Junior Data Analyst
 
-Welcome to my data analytics portfolio. I am a Brisbane-based aspiring data analyst with a strong interest in turning raw data into actionable insights. My work focuses on applied statistical analysis, effective data visualisation and clear communication of results. I primarily use R, Python and SQL to explore real-world datasets and develop practical business recommendations.
+I am a Brisbane-based aspiring data analyst with a strong interest in data science and predictive modeling. I am eager to develop these skills while applying my analytical abilities to deliver actionable insights as a data analyst. My work focuses on applied statistical analysis, effective data visualisation and clear communication of results. I primarily use R, SQL and Python to explore real-world datasets and develop practical business recommendations.
 
 ---
 
 ## About Me
 
-I hold a Bachelor of Business (Marketing) and am currently completing further study at the University of Queensland, focusing on data analytics. My academic and project experience has equipped me with practical skills in data wrangling, exploratory data analysis, regression modelling and time series forecasting. I am particularly interested in the role of data in supporting business decisions and improving operational performance.
+I hold a Bachelor of Business (Marketing) and am currently completing further study in data analytics at the University of Queensland. Through my academic and project experience, I have developed practical skills in data wrangling, exploratory data analysis, regression modelling and time series forecasting. I am particularly interested in leveraging data to support business decisions, enhance operational performance and mitigate risk.
 
 Proficiency in:
 - R (tidyverse, ggplot2, forecast, caret)
