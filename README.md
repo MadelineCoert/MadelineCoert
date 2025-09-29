@@ -38,7 +38,7 @@ Developed a model to predict underperforming restaurants using regression techni
 ### Women's Health Investment EDA  
 Analysed global datasets on fertility, maternal mortality, health expenditure and female labour participation to examine how investment in women’s healthcare influences survival outcomes, workforce inclusion and long-term economic growth.  
 **Tools used:** R, tidyverse, ggplot2, dplyr, zoo  
-[View Project](https://github.com/MadelineCoert/WomensHealth-Investment-Analysis)
+[View Project](https://github.com/MadelineCoert/Economic-Case-for-Women-s-Health-Investment)
 
 ---
 
