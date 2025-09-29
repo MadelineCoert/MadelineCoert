@@ -25,7 +25,7 @@ Explored user behaviour and engagement patterns in a simulated gaming platform t
 **Tools used:** R, dplyr, ggplot2  
 [View Project](https://github.com/MadelineCoert/GameLab-EDA)
 
-## Handlebar Haven Dimensional Model
+### Handlebar Haven Dimensional Model
 Designed a Kimball-style star schema and dimensional model for a retail business to analyse profitability across customers, products, suppliers, territories and time, enabling strategic, data-driven decision making.  
 **Tools used:** SQL, ERD tools, dimensional modelling (Kimball methodology)  
 [View Project](https://github.com/MadelineCoert/Handlebar-Haven-Dimensional-Model)
