@@ -48,10 +48,13 @@ Analysed global datasets on fertility, maternal mortality, health expenditure an
 
 ## Skills Summary
 
-| Technical Skills       | Analytical Techniques        | Reporting & Communication |
-|------------------------|------------------------------|----------------------------|
-| R, Python, SQL, Excel  | EDA, regression, classification, time series | Data storytelling, report writing, dashboards |
-| tidyverse, ggplot2     | Model evaluation, decomposition, forecasting | Power BI, RMarkdown, GitHub |
+| Technical Skills                          | Analytical Techniques                                | Reporting & Communication            |
+|-------------------------------------------|------------------------------------------------------|--------------------------------------|
+| R, Python, SQL, Excel                     | EDA, regression, classification, time series         | Data storytelling, report writing    |
+| tidyverse, ggplot2, pandas                | Model evaluation, decomposition, forecasting         | Power BI, RMarkdown, GitHub          |
+| SSIS, MySQL, SQL Server                   | Dimensional modelling (Kimball)                      | Technical documentation (ERDs, ETL)  |
+| Data warehousing & ETL pipelines          | Metric engineering (ROI, profit, KPIs)               | Stakeholder-friendly communication   |
+
 
 ---
 
