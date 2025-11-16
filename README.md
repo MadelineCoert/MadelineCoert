@@ -21,6 +21,7 @@ Proficiency in:
 ## Portfolio Projects
 ### Data Warehousing & ETL Pipeline for Handlebar Haven
 Dimensional modelling and ETL implementation for a retail sales dataset, featuring SSIS data pipelines, MySQL warehouse schema and analytical queries supporting profitability insights.
+
 **Tools used:** SSIS, SQL Server, MySQL, Visual Studio, ERD Modelling
 [View Project](https://github.com/MadelineCoert/Handlebar-Haven-Data-Warehouse-Implementation)
 
