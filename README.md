@@ -1,6 +1,6 @@
 # Madeline Coert – Junior Business Analyst
 
-I am a Brisbane-based aspiring business analyst with a strong interest in data analytics and predictive modeling. I am eager to develop these skills while applying my analytical abilities to deliver actionable insights as a business analyst. My work focuses on applied statistical analysis, effective data visualisation and clear communication of results. I primarily use R, SQL and Python to explore real-world datasets and develop practical business recommendations.
+I am a Brisbane-based aspiring business analyst with a strong interest in data analytics and predictive modeling. I am eager to develop these skills while applying my analytical abilities to deliver actionable insights as a business analyst. My work focuses on applied statistical analysis, effective data visualisation and clear communication of results. I primarily use R and SQL to explore real-world datasets and develop practical business recommendations.
 
 ---
 
